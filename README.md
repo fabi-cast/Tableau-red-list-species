@@ -1,5 +1,6 @@
 # Constructing a story in Tableau:  Red List Species in 2016
 
+Have a look to the viz: [Red List Species in 2016](https://public.tableau.com/profile/fabiana.castiblanco#!/vizhome/RedlistSpeciesin2016/ENDANGEREDSPECIESIN2016)
 
 
 
@@ -48,4 +49,3 @@ As we mention above, we also add some images (public domain) and icons to enrich
 We use a customized palette of greens and pink nuances which enhance more the topic of the story. We add color to the background of the story, worksheets and dashboards too.
 Also we use the map-background `normal` for the map.
 
-Have a look to the viz: [Red List Species in 2016](https://public.tableau.com/profile/fabiana.castiblanco#!/vizhome/RedlistSpeciesin2016/ENDANGEREDSPECIESIN2016)
